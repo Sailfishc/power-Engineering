@@ -1,4 +1,4 @@
-package com.sailfish.engineering.distributed.consistencyHash;
+package com.sailfish.engineering.algorithm.consistencyHash;
 
 import java.util.LinkedList;
 import java.util.List;
